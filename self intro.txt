@@ -1,0 +1,16 @@
+0.Hi , firstly thank you so much for giving me this opportunity, Myself Ajay Medi, and i am currently working as Senior System Engineer - DEVOPS at Tata Consultancy Services located at Hyderabad from past 6.5 years. In that for first 3 years i worked on Software development activities and from past 3.5 years i am completely working on DevOps engineering and cloud support activities. 
+	Coming to my technical experience i'm having good much of exposure in aws cloud services like ec2, s3,vpc,iam,rds,route53,clodwatch,lambda,sns,sqs etc.
+1.Coming to DevOpstools i have good much of experience in sourcecode management tool called git, in that i'm currently working on pullrequest creation mergeconflict resoloution etc.
+2.Coming to build tool like maven and gradle i used to create build artifacts by using these tools.
+3.Coming to artifactory repository i am working with nexus and jfrog. In that i used to integrate maven with nexus by configuring pom.xml for automation purpose
+4.I used to work with sonarqube for code quality reports
+5.i have good much of experience in jenkins for CICD that need for automation and integration of several tools. for jenkins i have experience in integrating several tools and plugins with manage jenkins and i used to write declarative pipeline scripts by integrating shell scripts.
+6.when it comes for artifact deployment or configuration management i used to work with ansible several times by connecting master and slaves via passwordless authentication , i can able to deploy artifact through playbooks or adhoc commands within ansible.
+7.when coming to containarization deployment i have good much experience in docker and kubernetes. For this we have integrated docker with jenkins and created docker file then making it as image itself and then pushing to private docker repository as a part of CI, then for CD we used to push that image as pods to the required cluster by deployment and service yamls. 
+8.I have experience in creating the kuberenetes cluster by kubeadm and kops approach, I worked with ecs and eks as well when it comes to project requirement. 
+9.Coming to programming languages i am good much familier at shell and python, i can able to perfom automation jobs by using shell and i recently started working with python to confiigure lambda and glue jobs
+10.Coming to operating systems i have good much of exposure at linux administration and windows, i can able to perform admin level operations in both.
+11.Coming to my day to day activities, i am currently working in agile + devops methodology that maintains sprints and we are refining, picking up and working on the userstories as per the sprint requirement and assign the pointers as per the Fibonacci_number within Jira and rally tools, 
+12.i always given good performance in sprint reviews in the presence of clients. and i used to participate on sprint retrospective , planning ext as a part of project requirement.
+
+Thankyou
